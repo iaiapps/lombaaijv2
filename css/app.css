@@ -1,0 +1,5 @@
+#hero {
+  background: url("../img/bg.svg");
+  background-size: cover;
+  background-position-x: center;
+}
