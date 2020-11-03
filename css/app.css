@@ -3,3 +3,16 @@
   background-size: cover;
   background-position-x: center;
 }
+
+.logo {
+  width: 80%;
+}
+
+.logo1 {
+  width: 70%;
+}
+
+.is-horizontal-center {
+  justify-content: center !important;
+}
+/* justify-content: center; */
