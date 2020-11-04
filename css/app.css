@@ -5,7 +5,7 @@
 }
 
 .logo {
-  width: 80%;
+  width: 85%;
 }
 
 .logo1 {
@@ -15,4 +15,11 @@
 .is-horizontal-center {
   justify-content: center !important;
 }
-/* justify-content: center; */
+
+.cardimg {
+  max-width: 60%;
+}
+
+/* .card {
+  height: 350px;
+} */
